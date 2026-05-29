@@ -2,3 +2,4 @@ Flask>=2.0.0
 Flask-Cors>=3.0.10
 flask
 cryptography
+gunicorn
